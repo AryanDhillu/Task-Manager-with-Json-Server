@@ -10,7 +10,7 @@ const submt = (e) => {
     e.preventDefault()
 
     if (!text || !day)  {
-        alert("Khaliee form submit kaadh ra 🤦🏻‍♂, Edhoti pettu angla 😡!!")
+        alert("Empty form can't be submitted!")
         return
     }
 
