@@ -1,3 +1,8 @@
+![Application screenshot](./public/Screenshot.png)
+
+
+#Task Manager
+
 # About the Project
 
 This task manager app features a clean and straightforward user interface, offering essential functionalities such as adding, deleting, and marking tasks as complete with a checkmark. Due to integration with a JSON server, which allows tasks to be stored persistently. Even if the server is shut down, your tasks remain safely stored, ensuring that you can access and manage them whenever needed.
